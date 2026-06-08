@@ -1,0 +1,14 @@
+C:\Users\Murad\source\repos\labb7\labb7\bin\Debug\net8.0\labb7.exe
+C:\Users\Murad\source\repos\labb7\labb7\bin\Debug\net8.0\labb7.deps.json
+C:\Users\Murad\source\repos\labb7\labb7\bin\Debug\net8.0\labb7.runtimeconfig.json
+C:\Users\Murad\source\repos\labb7\labb7\bin\Debug\net8.0\labb7.dll
+C:\Users\Murad\source\repos\labb7\labb7\bin\Debug\net8.0\labb7.pdb
+C:\Users\Murad\source\repos\labb7\labb7\obj\Debug\net8.0\labb7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\labb7\labb7\obj\Debug\net8.0\labb7.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\labb7\labb7\obj\Debug\net8.0\labb7.AssemblyInfo.cs
+C:\Users\Murad\source\repos\labb7\labb7\obj\Debug\net8.0\labb7.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\labb7\labb7\obj\Debug\net8.0\labb7.dll
+C:\Users\Murad\source\repos\labb7\labb7\obj\Debug\net8.0\refint\labb7.dll
+C:\Users\Murad\source\repos\labb7\labb7\obj\Debug\net8.0\labb7.pdb
+C:\Users\Murad\source\repos\labb7\labb7\obj\Debug\net8.0\labb7.genruntimeconfig.cache
+C:\Users\Murad\source\repos\labb7\labb7\obj\Debug\net8.0\ref\labb7.dll
